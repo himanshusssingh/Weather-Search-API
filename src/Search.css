@@ -1,0 +1,24 @@
+.searchBox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+
+.searchBox h3 {
+    margin-bottom: 20px;
+}
+
+.searchBox form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.searchBox form .MuiTextField-root {
+    margin-bottom: 20px;
+}
+
+.searchBox form .MuiButton-root {
+    margin-top: 10px;
+}
